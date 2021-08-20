@@ -441,7 +441,9 @@ ul.social-media-list > li, ul.pagination > li { margin: 0 !important; }
 
 ul.social-media-list > li > a, ul.pagination > li > a { padding: 0 !important; border: none; }
 
-.footer-col-wrapper { display: block; margin-bottom: 10px; }
+.footer-col-wrapper { display: block; margin-bottom: 5px; }
+
+.social-links { margin-bottom: 10px; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
